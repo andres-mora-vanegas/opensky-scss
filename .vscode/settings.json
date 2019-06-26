@@ -1,8 +1,8 @@
 {
     "liveServer.settings.https": {
     "enable": true, //set it true to enable the feature.
-    "cert": "D:\\xampp\\htdocs\\proyectos\\opensky\\sitessl\\certificate.crt", //full path of the certificate
-    "key": "D:\\xampp\\htdocs\\proyectos\\opensky\\sitessl\\privateKey.key", //full path of the private key
+    "cert": "D:\\xampp\\htdocs\\opensky-scss\\certificate.crt", //full path of the certificate
+    "key": "D:\\xampp\\htdocs\\opensky-scss\\privateKey.key", //full path of the private key
     "passphrase": "12345"
     },
     "liveServer.settings.port": 5501

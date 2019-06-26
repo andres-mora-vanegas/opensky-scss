@@ -19,6 +19,10 @@
 .no-scroll #menu-item-762 a {
     border-radius: 0;
   }
+
+  .page-title-left-border h1 {
+    font-size: 30pt;
+  }
 }
 @media (max-width: 768px) {
   .no-scroll .onepress-menu li,
@@ -168,7 +172,7 @@ section.service-item {
   border-left: solid 10px white;
 }
 .page-title-left-border h1 {
-  font-size: 40pt !important;
+  font-size: 40pt;
 }
 
 .followWrap {

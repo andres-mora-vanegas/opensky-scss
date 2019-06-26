@@ -1,0 +1,21 @@
+{
+  "name": "opensky-scss",
+  "version": "1.0.0",
+  "description": "```\r sass --watch src/sass/app.sass assets/css/app.css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "sass --watch src/sass/app.sass assets/css/app.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyman1907/opensky-scss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyman1907/opensky-scss/issues"
+  },
+  "homepage": "https://github.com/andyman1907/opensky-scss#readme"
+}
