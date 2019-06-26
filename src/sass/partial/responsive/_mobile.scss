@@ -1,0 +1,22 @@
+@media (max-width: 362px) {
+    .no-scroll .site-logo-div {
+        padding: 0;
+    }
+
+    .no-scroll .custom-logo-link img {
+        /*width: 165px !important;*/
+        margin-top: 0px;
+    }
+
+    .no-scroll #nav-toggle {
+        margin-top: 32px;
+    }
+
+    .no-scroll #menu-item-761 a,
+    .no-scroll #menu-item-767 a,
+    .no-scroll #menu-item-768 a,
+    .no-scroll #menu-item-760 a,
+    .no-scroll #menu-item-762 a {
+        border-radius: 0;
+    }
+}

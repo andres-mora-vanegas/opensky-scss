@@ -1,0 +1,12 @@
+.off-canvas-up {
+    position: fixed;
+    top: -200%;
+    left: 0%;
+    opacity: 0;
+    transition: 1s ease-in-out;
+}
+
+.on-canvas-up {
+    top: 0;
+    opacity: 1;
+}

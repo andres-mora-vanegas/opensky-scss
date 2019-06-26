@@ -1,0 +1,46 @@
+@media (min-width:1141px) {
+    header.no-scroll {
+        background: transparent;
+    }
+
+    .box-shadow {
+        box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+        line-height: inherit;
+    }
+
+    .padding-custom {
+        padding: 15px 0px;
+        margin-top: 10px;
+    }
+
+    .onepress-menu.padding-custom li:hover {
+        border-radius: 8px;
+    }
+
+    .onepress-menu.padding-custom>li {
+        border-radius: 8px;
+        padding: 5px 0px;
+    }
+
+    .onepress-current-item {
+        background: var(--main-bg-color);
+    }
+
+    .padding-custom .sub-menu {
+        box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+        border: none;
+    }
+
+    .padding-custom .sub-menu li a {
+        border-radius: 8px;
+    }
+
+    .sub-menu li a:hover {
+        border-radius: 8px;
+    }
+
+    .no-scroll .onepress-menu a,
+    .no-scroll a:not([href]):not([tabindex]) {
+        color: var(--main-bg-white);
+    }
+}

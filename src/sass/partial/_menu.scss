@@ -1,0 +1,77 @@
+.no-scroll .site-logo-div {
+    padding: 0px;
+    background: none;
+    border-radius: 0 0 10px 10px;
+}
+
+.no-scroll {
+    box-shadow: none;
+    line-height: 40px;
+    transition: .5s;
+}
+
+.no-scroll ul.onepress-menu {
+    margin-top: 26px;
+}
+
+.no-scroll .sub-menu li a {
+    color: #999999;
+}
+
+/*LOGO*/
+
+.custom-logo-link img {
+    width: 200px !important;
+    height: auto;
+}
+
+.onepress-menu * {
+    font-family: 'Roboto', sans-serif;
+    transition: .5s;
+}
+
+.onepress-menu a {
+    font-size: 13pt;
+    text-transform: initial;
+    letter-spacing: initial;
+    font-weight: normal;
+    color: #777777;
+}
+
+.no-scroll .onepress-menu li {
+    border-radius: 8px;
+}
+
+.onepress-menu li {
+    border-radius: 0;
+}
+
+.no-scroll .onepress-menu li:hover {
+    background: var(--main-bg-color);
+    transition: .5s;
+    color: var(--main-bg-white);
+    border-radius: 8px;
+}
+
+.onepress-menu li:hover {
+    background: var(--main-bg-color);
+    transition: .5s;
+    color: var(--main-bg-white);
+    border-radius: 0;
+}
+
+.onepress-menu li a:hover {
+    color: var(--main-bg-white) !important;
+}
+
+.sub-menu li a:hover {
+    background: var(--main-bg-color);
+}
+
+.onepress-menu>li:last-child>a {
+    padding-right: 17px
+}
+
+.onepress-menu ul li.current-menu-item>a {
+    color: var(--main-bg-color);
+}

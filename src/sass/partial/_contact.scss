@@ -1,0 +1,66 @@
+/*CONTACT*/
+
+.elementor-widget-container {
+    border-radius: 10px;
+}
+
+form p,
+form div {
+    font-family: var(--main-bg-white);
+    font-size: 16px;
+    text-transform: initial;
+    letter-spacing: initial;
+    font-weight: normal;
+}
+
+input[type="submit"] {
+    font-family: var(--main-bg-white);
+    font-size: 16px;
+    text-transform: initial;
+    letter-spacing: initial;
+}
+
+.asterisk {
+    color: red;
+}
+
+.texto-p p {
+    font-size: 20px;
+}
+
+.contact-custom-container {
+    box-shadow: none;
+}
+
+.contact-custom-container>div {
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.popmake-content * {
+    font-family: var(--main-bg-white);
+}
+
+form p,
+div p {
+    font-family: var(--main-bg-white);
+    font-size: 16px;
+    font-weight: normal;
+    text-transform: initial;
+    letter-spacing: initial;
+}
+
+input[type="submit"] {
+    font-family: var(--main-bg-white);
+    font-size: 16px;
+    text-transform: initial;
+    letter-spacing: initial;
+}
+
+.asterisk {
+    color: red;
+}
+
+.fa {
+    font: normal normal normal 14px/1 FontAwesome;
+}
